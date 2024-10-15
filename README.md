@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3 align="center">I'm a cybersecurity student at ULB. </h3>
+<h3 align="center">I'm a cybersecurity guy. </h3>
 
 
 
